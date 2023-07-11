@@ -1,0 +1,8 @@
+C:\Users\Public\source\repos\Aula02Atividade\Aula02Atividade\bin\Debug\Aula02Atividade.exe.config
+C:\Users\Public\source\repos\Aula02Atividade\Aula02Atividade\bin\Debug\Aula02Atividade.exe
+C:\Users\Public\source\repos\Aula02Atividade\Aula02Atividade\bin\Debug\Aula02Atividade.pdb
+C:\Users\Public\source\repos\Aula02Atividade\Aula02Atividade\obj\Debug\Aula02Atividade.Properties.Resources.resources
+C:\Users\Public\source\repos\Aula02Atividade\Aula02Atividade\obj\Debug\Aula02Atividade.csproj.GenerateResource.cache
+C:\Users\Public\source\repos\Aula02Atividade\Aula02Atividade\obj\Debug\Aula02Atividade.csproj.CoreCompileInputs.cache
+C:\Users\Public\source\repos\Aula02Atividade\Aula02Atividade\obj\Debug\Aula02Atividade.exe
+C:\Users\Public\source\repos\Aula02Atividade\Aula02Atividade\obj\Debug\Aula02Atividade.pdb
